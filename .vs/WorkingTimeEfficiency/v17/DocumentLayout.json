@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133CA30D-AC80-4E18-9B9B-0DCE3052661F}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\stipo6\\source\\repos\\workingtimeefficiency\\unittestproject\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CA30D-AC80-4E18-9B9B-0DCE3052661F}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAD7A-F1C1-45B9-B0A8-32203DE7EAC5}|WorkingTimeEfficiency\\WorkingTimeEfficiency.csproj|c:\\users\\stipo6\\source\\repos\\workingtimeefficiency\\workingtimeefficiency\\workingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAD7A-F1C1-45B9-B0A8-32203DE7EAC5}|WorkingTimeEfficiency\\WorkingTimeEfficiency.csproj|solutionrelative:workingtimeefficiency\\workingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAD7A-F1C1-45B9-B0A8-32203DE7EAC5}|WorkingTimeEfficiency\\WorkingTimeEfficiency.csproj|c:\\users\\stipo6\\source\\repos\\workingtimeefficiency\\workingtimeefficiency\\workingday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAD7A-F1C1-45B9-B0A8-32203DE7EAC5}|WorkingTimeEfficiency\\WorkingTimeEfficiency.csproj|solutionrelative:workingtimeefficiency\\workingday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FACAD7A-F1C1-45B9-B0A8-32203DE7EAC5}|WorkingTimeEfficiency\\WorkingTimeEfficiency.csproj|c:\\users\\stipo6\\source\\repos\\workingtimeefficiency\\workingtimeefficiency\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FACAD7A-F1C1-45B9-B0A8-32203DE7EAC5}|WorkingTimeEfficiency\\WorkingTimeEfficiency.csproj|solutionrelative:workingtimeefficiency\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 369,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\WorkingTimeEfficiency\\Task.cs",
+              "RelativeDocumentMoniker": "WorkingTimeEfficiency\\Task.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\WorkingTimeEfficiency\\Task.cs",
+              "RelativeToolTip": "WorkingTimeEfficiency\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:22:04.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkingDay.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\WorkingTimeEfficiency\\WorkingDay.cs",
+              "RelativeDocumentMoniker": "WorkingTimeEfficiency\\WorkingDay.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\WorkingTimeEfficiency\\WorkingDay.cs",
+              "RelativeToolTip": "WorkingTimeEfficiency\\WorkingDay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:21:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\UnitTestProject\\UnitTests.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\UnitTests.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\UnitTestProject\\UnitTests.cs",
+              "RelativeToolTip": "UnitTestProject\\UnitTests.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAJ4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:36:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkingTime.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\WorkingTimeEfficiency\\WorkingTime.cs",
+              "RelativeDocumentMoniker": "WorkingTimeEfficiency\\WorkingTime.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\WorkingTimeEfficiency\\WorkingTimeEfficiency\\WorkingTime.cs",
+              "RelativeToolTip": "WorkingTimeEfficiency\\WorkingTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:19:40.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
