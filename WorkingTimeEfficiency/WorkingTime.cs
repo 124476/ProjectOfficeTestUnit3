@@ -15,7 +15,7 @@ namespace WorkingTimeEfficiency
             foreach (var item in workingDays)
             {
                 allTime += item.Hours;
-                if (tasks.FirstOrDefault(x => x.BeginDateTime < item.Date && item.Date < x.EndDateTime) != null)
+                if (tasks.FirstOrDefault(x => x.BeginDateTime <= item.Date && item.Date <= x.EndDateTime) != null)
                 {
                     allStoping += item.Hours;
                 }
@@ -24,7 +24,7 @@ namespace WorkingTimeEfficiency
             allStoping = allTime - allStoping;
             var index = Math.Round((1 - (allStoping / allTime)) * 100, 2);
 
-            return new double[] { index, allTime * 60 * 60, allStoping * 60 * 60, 0, 0 };
+            return new double[] { index, allStoping * 60 * 60, allStoping * 60 * 60, 0, 0 };
         }
     }
 }
